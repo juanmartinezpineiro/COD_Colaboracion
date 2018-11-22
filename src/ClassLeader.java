@@ -10,4 +10,10 @@ public class ClassLeader {
         int lider2;
         //Saludos a la GC
     }
+    
+    class VivaElLider{
+        int FidelCastro;
+        int WinstonChurchill;
+        //**persona andando**
+    }
 }
