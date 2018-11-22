@@ -1,5 +1,7 @@
 package cod_colaboration;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author jmartinezpineiro
@@ -21,8 +23,11 @@ int saludos;
     }
     
     //de la linea 23 a las 30 vamos a hacer cambios para crear conflicto
-    
-    
+    int fornite1;
+    int fornite2;
+    //fornite1 = Integer.parseInt(JOptionPane.showMessageDialog(null, "Me encanta el fornite, juego todo el "));
+    //saludos 1
+    //saludos 2 
     
     
     
