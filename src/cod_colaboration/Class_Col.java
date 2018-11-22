@@ -11,4 +11,6 @@ package cod_colaboration;
 public class Class_Col {
     int uno;
     String holaCaracola;
+    String chao;
+  
 }
