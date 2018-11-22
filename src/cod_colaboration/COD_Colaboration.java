@@ -15,8 +15,8 @@ int leader1;
 int leador2;
 int suma;
 
-suma = leader1+leader2;
 
+int saludos;
 
     }
 
