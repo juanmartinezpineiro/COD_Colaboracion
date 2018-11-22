@@ -1,14 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * jesta es la clase que crea el colaborador usando una rama nueva
+ * luego se hara un merge con los cambios a la master 
  */
 package cod_colaboration;
 
 /**
  *
- * @author lvazquezdorna
+ * @author lara vazquez dorna
  */
 public class Class_Col {
-    
+    int uno;
+    String holaCaracola;
 }
