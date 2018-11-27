@@ -9,5 +9,10 @@ package cod_colaboration;
  * @author lvazquezdorna
  */
 public class Colaborador_Request {
+    String prueba;
+    String etiquetas;
+    
+    //crear etiquetas de caracteristicas en el pull request
+    
     
 }
