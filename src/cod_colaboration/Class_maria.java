@@ -12,5 +12,10 @@ package cod_colaboration;
 public class Class_maria {
     float clase;
     float silla;
-    
+    //añadir más material
+    float mesa;
+    float ordenadores;
+    float pizarra;
+    float libros;
+    float estanteria;
 }
